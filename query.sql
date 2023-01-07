@@ -1,5 +1,7 @@
-// queried on flipside crypto
-// Query URL: https://app.flipsidecrypto.com/velocity/queries/31cecc7a-9953-4c0f-bc1a-1f6add1f7f15
+/* 
+queried on flipside crypto
+Query URL: https://app.flipsidecrypto.com/velocity/queries/31cecc7a-9953-4c0f-bc1a-1f6add1f7f15
+*/
 
 WITH 
   sturdy_deposits as (
