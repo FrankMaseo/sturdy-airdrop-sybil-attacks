@@ -11,4 +11,4 @@ This gives us the obvious sybil attackers.
 
 Some upcoming improvements:
 * Grouping funding wallets in case of exchanges (i.e. wallets funded by Binance 1 and Binance 4)
-* Clustering on a rolling 1hour basis, to enable flagging wallets that would have made deposits at 6:58, 7:01 and 7:06. Currently we would only flag 2 wallets that deposited at 7:01 and 7:06.
+* ~~Clustering on a rolling 1hour basis, to enable flagging wallets that would have made deposits at 6:58, 7:01 and 7:06. Currently we would only flag 2 wallets that deposited at 7:01 and 7:06.~~ Addressed in the "Method 2" commit -> +~20 addresses flagged
